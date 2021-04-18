@@ -1,0 +1,49 @@
+body {
+    background-image: url('covid.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    overflow: hidden;
+    display: block;
+    height: 100%;
+}
+
+#container {
+    padding-top: 120px;
+    padding-left: 450px;
+}
+
+.textboxes {
+    height: 25px;
+}
+
+#t1 {
+    background-color: skyblue;
+    font-family: Calibri;
+}
+
+#btn1 {
+    background-color: blue;
+    cursor: pointer;
+    height: 35px;
+    width: 85px;
+    border-radius: 3px;
+}
+
+#content {
+    background-color: blue;
+    text-align: center;
+    padding-right: 20px;
+    width: 425px;
+    height: 100px;
+}
+
+p {
+    color: white;
+}
+
+#data {
+    justify-content: center;
+    padding-left: 550px;
+}
